@@ -12,13 +12,15 @@ dependency management.
         app_service.js
         app_service_test.js
       main/
+        main.html
+        main_controller.js
+        main_controller_test.js
       app.css
       app.js
       app_controller.js
       app_controller_test.js
       index.html
-    bower_components/
-    build/
+    bower_components/    
     node_modules/
     .bowerrc
     .gitignore
