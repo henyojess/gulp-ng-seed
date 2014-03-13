@@ -1,0 +1,25 @@
+{
+  "name": "gulp-ng-seed",
+  "version": "0.0.0",
+  "description": "seed project using gulp and angular",
+  "main": "app.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "keywords": [
+    "seed",
+    "project",
+    "angular",
+    "gulp"
+  ],
+  "author": "jessie@henyo.com",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.5.5",
+    "gulp-concat": "~2.1.7",
+    "gulp-jshint": "~1.5.0",
+    "gulp-load-plugins": "~0.4.0",
+    "gulp-angular-templatecache": "^1.1.0",
+    "gulp-connect": "^1.0.7"
+  }
+}
