@@ -1,19 +1,7 @@
 {
   "name": "gulp-ng-seed",
-  "version": "0.0.0",
-  "description": "seed project using gulp and angular",
-  "main": "app.js",
-  "scripts": {
-    "test": "gulp test"
-  },
-  "keywords": [
-    "seed",
-    "project",
-    "angular",
-    "gulp"
-  ],
-  "author": "jessie@henyo.com",
-  "license": "MIT",
+  "version": "0.0.0",  
+  "main": "app.js",  
   "devDependencies": {
     "gulp": "~3.5.5",
     "gulp-concat": "~2.1.7",

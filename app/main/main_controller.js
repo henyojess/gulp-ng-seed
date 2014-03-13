@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('myApp-main',['ngRoute'])
+angular.module('gulp-ng-seed-main',['ngRoute'])
   .config(function ($routeProvider) {
     $routeProvider
       .when('/', {
