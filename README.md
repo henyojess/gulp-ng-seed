@@ -3,6 +3,8 @@ This is an angularjs seed project that follows the [Best Practice Recommendation
 It takes advantage of the gulp build tool and makes use of bower and npm for
 dependency management.
 
+-----
+
 #### DIRECTORY STRUCTURE ####
 
     app/
@@ -25,6 +27,8 @@ dependency management.
     gulpgile.js
     package.json
 
+-----
+
 #### FEAUTURES ####
 - follows the recommended best practice project structure for angularjs
 - all js files in the app folder are concatenated into build/app.js
@@ -35,6 +39,14 @@ dependency management.
 - index.html is copied to build/index.html
 - a static server is run at port 9000 with livereload support
 - when any html, js or css file in the build folder changes, they are autoreloaded on the browser
+
+-----
+
+#### Prerequisites ####
+- node.js [http://nodejs.org/][2]
+- npm [http://www.npmjs.org/][3]
+- bower [http://bower.io/][4]
+- gulp.js [http://gulpjs.com/][5]
 
 -----
 
@@ -55,5 +67,15 @@ dependency management.
 
 8) start hacking
 
+----
+
+#### Support ####
+For questions and issues: [https://github.com/henyojess/gulp-ng-seed/issues][6]
+
 
   [1]: https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub
+  [2]: http://nodejs.org/
+  [3]: http://www.npmjs.org/
+  [4]: http://bower.io/
+  [5]: http://gulpjs.com/
+  [6]: https://github.com/henyojess/gulp-ng-seed/issues
